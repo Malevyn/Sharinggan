@@ -1,7 +1,7 @@
 {
     "files": {
         "README.md": "6f8381aac2a0277a110a133cc7e26d62c914ffe3dcd23c8fadd738c83cbf4bb4",
-        "index.js": "8889ba71f38f74ef31196e195007c6a418ca6bbef0cf6ca57c8400b78152f1f0",
+        "index.js": "eb0d40edb94429d485008bb6b9c78353c6adf2c779a8428b3275744a43b99556",
         "module.json": "e174e78d97042a029f8ea19d3a3a0711b07ddd451dfa7f51ad6492a0dcd93d35",
         "settings_migrator.js": "1b0c58dd5131c472c566585d199b934a4ff33c4df139949d0131252e74ada631",
         "settings_structure.js": "8d3cc0bd3fc27a9cca0da804583516a4d27149313911353ffa69c02d65fc6b3f"
@@ -19,7 +19,7 @@
         "S_DESPAWN_NPC": 3,
         "S_INSTANT_MOVE": 3,
         "S_NPC_LOCATION": 3,
-        "S_SPAWN_NPC": 12,
+        "S_SPAWN_NPC": 11,
         "S_USER_EFFECT": 1
     }
 }
