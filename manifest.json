@@ -1,0 +1,25 @@
+{
+    "files": {
+        "README.md": "6f8381aac2a0277a110a133cc7e26d62c914ffe3dcd23c8fadd738c83cbf4bb4",
+        "index.js": "8889ba71f38f74ef31196e195007c6a418ca6bbef0cf6ca57c8400b78152f1f0",
+        "module.json": "678c02957296f70941eb006683470a8b45143e4ed62611b709757800c70ceb64",
+        "settings_migrator.js": "1b0c58dd5131c472c566585d199b934a4ff33c4df139949d0131252e74ada631",
+        "settings_structure.js": "8d3cc0bd3fc27a9cca0da804583516a4d27149313911353ffa69c02d65fc6b3f"
+    },
+    "defs": {
+        "C_HIT_USER_PROJECTILE": 4,
+        "C_PLAYER_LOCATION": 5,
+        "C_START_INSTANCE_SKILL": 7,
+        "C_START_SKILL": 7,
+        "C_USE_ITEM": 3,
+        "S_ABNORMALITY_BEGIN": 3,
+        "S_ABNORMALITY_END": 1,
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_DESPAWN_NPC": 3,
+        "S_INSTANT_MOVE": 3,
+        "S_NPC_LOCATION": 3,
+        "S_SPAWN_NPC": 12,
+        "S_USER_EFFECT": 1
+    }
+}

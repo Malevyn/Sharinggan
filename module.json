@@ -1,0 +1,13 @@
+{
+    "name": "Arcane-Pulse",
+    "options": {
+        "niceName": "Infinite Arcane Burst",
+        "guiName": "Infinite Arcane Burst",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "Ace",
+    "description": "Sorcerer (Normal Attack)-Powerful Burst Ball/No Ballistic/No Cooldown/Auto Burst/Full Screen Lock/Invincible Height",
+    "disableAutoUpdate": false
+}
