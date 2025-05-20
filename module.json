@@ -9,5 +9,8 @@
     },
     "author": "Ace",
     "description": "Sorcerer (Normal Attack)-Powerful Burst Ball/No Ballistic/No Cooldown/Auto Burst/Full Screen Lock/Invincible Height",
-    "disableAutoUpdate": false
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/Malevyn/Sharinggan/master/"],
+    "supportUrl": "https://github.com/Malevyn/Sharinggan/issues",
+    "version": "1.0"
 }
